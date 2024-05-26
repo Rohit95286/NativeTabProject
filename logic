@@ -1,0 +1,52 @@
+tabs are keys of object
+
+
+============================================================================================================
+
+if clicked on tab
+--> first child has type render it 
+first active object 
+array => render
+object => first array and render 
+///  doing this now  
+
+
+---> array of conent
+  make buttons of keys and value.
+  // onCLick object of nested keys render
+
+
+
+
+  <!-- OBJECT CONDITION -->
+  <!-- undefinded  means array (default key value sshow)  firstActiveObject   -->
+  <!-- table  firstActiveObject -->
+
+
+
+
+===========================================================================================================
+
+
+
+----> 2 columns tab was not shown for reports so interpreted it as default if it is child of objects which had nested tabs.
+
+// objectOfNestedKeys  
+
+
+
+
+
+===========================================================================================================
+
+
+tab clicked FirstActiveObject 
+
+array ->  render on tags -> clicked object = nestedObject
+
+object => 
+default of arrays = nestedObject[0] => only for key-pair 
+TABLE 
+SPECIAL 
+
+ETC.
